@@ -43,6 +43,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/bhowmickjoy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/bhowmickjoy" /></a></p><br><br>
 
+<h3 align="center">Support:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyfreaky&show_icons=true&locale=en&layout=compact" alt="joyfreaky" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=joyfreaky&show_icons=true&locale=en" alt="joyfreaky" /></p>
