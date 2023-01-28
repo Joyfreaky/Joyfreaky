@@ -45,6 +45,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyfreaky&show_icons=true&locale=en&layout=compact" alt="joyfreaky" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=joyfreaky&show_icons=true&locale=en" alt="joyfreaky" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joyfreaky&show_icons=true&locale=en" alt="joyfreaky" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=joyfreaky&" alt="joyfreaky" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=joyfreaky&" alt="joyfreaky" /></p>
