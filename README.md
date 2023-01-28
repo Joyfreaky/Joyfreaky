@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [IceCube - Neutrinos in Deep Ice](https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice/overview)
 
-- 👨‍💻 All of my projects are available at [https://eportfolio.mygreatlearning.com/joydip-bhowmick](https://eportfolio.mygreatlearning.com/joydip-bhowmick)
+- 👨‍💻 All of my projects are available at [https://github.com/Joyfreaky?tab=repositories](https://github.com/Joyfreaky?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/joydip-bhowmick-69363315b/](https://www.linkedin.com/in/joydip-bhowmick-69363315b/)
 
