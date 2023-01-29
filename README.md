@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joyfreaky" alt="joyfreaky" /></a> </p>
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7025239237411098624" height="290" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<p align="cneter"> <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7025239237411098624" height="290" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> </p>
 
 - 🔭 I’m currently working on [IceCube - Neutrinos in Deep Ice](https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice/overview)
 
