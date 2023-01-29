@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joy</h1>
+
+<p align="left"> <img src="https://www.facebook.com/photo?fbid=6189301617748254&set=a.155711844440625" alt="bhowmick.joydip" /> </p>
+
 <h3 align="center">A passionate Data Scientist and Aspiring developer from Cardiff, Wales.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyfreaky&label=Profile%20views&color=0e75b6&style=flat" alt="joyfreaky" /> </p>
@@ -43,7 +46,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://buymeacoffee.com/bhowmickjoy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/bhowmickjoy" /></a></p><br><br>
 
-<h1 align="center">My Stats So Far  :)</h1>
+<h1 align="center">My Stats So Far  :smiley:</h1>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyfreaky&show_icons=true&locale=en&layout=compact" alt="joyfreaky" /></p><br><br>
 
