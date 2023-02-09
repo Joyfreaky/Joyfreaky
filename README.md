@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joy</h1>
 
-<p align="left"> <img src="https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/323439461_1238288157096108_4328968800677934069_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=T_DvrXEST6MAX9g973g&tn=BXxZ4y3Xngd112_2&_nc_ht=scontent-lhr8-1.xx&oh=00_AfCyiGaTR0Svhaj09c53RLx-DrTScGTawXvipJPs4sjPTQ&oe=63DB9C79" alt="bhowmick.joydip" /> </p>
+<!---<p align="left"> <img src="https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/323439461_1238288157096108_4328968800677934069_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=T_DvrXEST6MAX9g973g&tn=BXxZ4y3Xngd112_2&_nc_ht=scontent-lhr8-1.xx&oh=00_AfCyiGaTR0Svhaj09c53RLx-DrTScGTawXvipJPs4sjPTQ&oe=63DB9C79" alt="bhowmick.joydip" /> </p>--->
 
 <h3 align="center">A passionate Data Scientist and Aspiring developer from Cardiff, Wales.</h3>
 
